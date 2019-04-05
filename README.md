@@ -1,29 +1,29 @@
 Team Members:
 =============
-Dinesh Prasanth Moluguwan Krishnamoorthy – dmolugu
-Tyler Cannon – tjcannon
-Tianpei Xia – txia4
-Okoilu Ruth – rookoilu
+
+* Dinesh Prasanth Moluguwan Krishnamoorthy – dmolugu
+* Tyler Cannon – tjcannon
+* Tianpei Xia – txia4
+* Okoilu Ruth – rookoilu
 
 
 List of Files Changed:
-BasicBufferMgr.java
-Buffer.java
-LogIterator.java
-LogMgr.java
-CheckpointRecord.java
-CommitRecord.java
-LogRecord.java
-LogRecordForwardIterator.java  //the new class we added
-LogRecordIterator.java
-RecoveryMgr.java
-RollbackRecord.java
-SetIntRecord.java
-SetStringRecord.java
-StartRecord.java
+======================
+* BasicBufferMgr.java
+* Buffer.java
+* LogIterator.java
+* LogMgr.java
+* CheckpointRecord.java
+* CommitRecord.java
+* LogRecord.java
+* LogRecordForwardIterator.java  //the new class we added
+* LogRecordIterator.java
+* RecoveryMgr.java
+* RollbackRecord.java
+* SetIntRecord.java
+* SetStringRecord.java
+* StartRecord.java
 
-
-Note on how to test for a scenario in the description:
 
 Sample code for Testing Iterator:
 =================================
